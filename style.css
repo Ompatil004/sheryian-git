@@ -1,0 +1,11 @@
+*{
+    padding: 0;
+    margin: 0;
+    height: 100%;
+    width: 100%;
+}
+#bg{
+    background-image:url(https://th.bing.com/th/id/OIP.wq1sscJ2sDuR0fTq5rP7GgHaEo?rs=1&pid=ImgDetMain);
+    background-position: center;
+    background-repeat: no-repeat;
+}
